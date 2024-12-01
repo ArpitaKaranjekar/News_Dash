@@ -10,7 +10,7 @@ Categorized news (e.g., Technology, Sports, Business, Health etc.).
 
 Optimized for Android and iOS.
 
-# How to run this project
+# How To Run This Project
 Clone this repository using following command.
 
 ```git clone``` https://github.com/ArpitaKaranjekar/News_Dash
